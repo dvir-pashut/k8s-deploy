@@ -20,7 +20,7 @@ Usage: sudo ./<script> [-m] [-h]
 
 ## information
 
-this script installing k8s using [kubeadm]. and installing flannel [CNI] (Container Network Interface).
+this script installing k8s using [kubeadm]. and installing flannel [CNI] (Container Network Interface) and contaierd.
 
 you can also use this a a startup script for worker nodes
 
