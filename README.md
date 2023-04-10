@@ -4,7 +4,10 @@
 ### "k8s-deploy" is a repository that contains 2 scripts that will deploy k8s on your machine(s) just make sure to use the correct script for your machine.
 
 
+## Requirements
 
+2 GB or more of RAM per machine (any less will leave little room for your apps).
+2 CPUs or more.
 
 ## Usage
 
@@ -19,8 +22,6 @@ Usage: <script> [-m] [-h]
 this script installing k8s using [kubeadm]. and installing flannel [CNI] (Container Network Interface).
 
 you can also use this a a startup script for worker nodes
-
-## Extra steps 
 
 
 
