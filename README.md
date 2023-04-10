@@ -8,11 +8,12 @@
 
 2 GB or more of RAM per machine (any less will leave little room for your apps).
 2 CPUs or more.
+make sure to run as sudo 
 
 ## Usage
 
 ```sh
-Usage: <script> [-m] [-h]
+Usage: sudo ./<script> [-m] [-h]
   -m    For Master node
   -h    Show usage
 ```
