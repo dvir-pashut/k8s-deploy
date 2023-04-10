@@ -1,7 +1,7 @@
 #!/bin/bash
 
 show_usage() {
-  echo "NOTE: this script is for Ubuntu 20.04 LTS x86/64. (it will not work on Ubuntu 22.04 LTS)"
+  echo "NOTE: this script is for Ubuntu 20.04 LTS x86/64. and Ubuntu .04 LTS x86/64. (it will not work on Ubuntu 22.04 LTS)"
   echo "Usage: $0 [-m] [-h]"
   echo "  -m    For Master node"
   echo "  -h    Show usage"
