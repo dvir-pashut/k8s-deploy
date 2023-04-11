@@ -3,6 +3,8 @@
 
 ### "k8s-deploy" is a repository that contains 2 scripts that will deploy k8s on your machine(s) just make sure to use the correct script for your machine.
 
+Tested on AWS ec2 and GCP compute instances (azure didnet gave me free trial).
+
 
 ## Requirements
 
